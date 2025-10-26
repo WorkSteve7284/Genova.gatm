@@ -3,8 +3,7 @@
 #include <string>
 
 void Genova::start() {
-    std::cout << "Welcome to Genova - type 'help' for commands.
-";
+    std::cout << "Welcome to Genova - type 'help' for commands.";
     std::string input;
     while(true){
         std::cout << "\n> ";
